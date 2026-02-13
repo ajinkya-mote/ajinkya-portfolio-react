@@ -8,7 +8,7 @@ export const certifications = [
     image: salesforce,
   },
   {
-    title: "Full Stack Java Development",
+    title: " Java Full Stack",
     issuer: "Certification Program",
     image: fullstack,
   },
